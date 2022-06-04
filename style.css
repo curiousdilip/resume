@@ -122,6 +122,13 @@ body
     animation: rubberBand 0.3s;
 }
 
+.contactinfo ul li a
+{
+    color: #fff;
+    font-weight: 300;
+    text-decoration: none;
+}
+
 .contactinfo ul li span
 {
     color: #fff;
